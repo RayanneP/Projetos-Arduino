@@ -3,13 +3,13 @@
 ## Projetos:
 
 
-piscar um led
+- piscar um led
 
 
-piscar dois leds
+- piscar dois leds
 
 
-piscar três leds
+- piscar três leds
 
 
-acender o led com o botão
+- acender o led com o botão
